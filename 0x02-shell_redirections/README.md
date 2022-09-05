@@ -6,3 +6,5 @@ Hello, World
 /etc/passwdfile.
 3-twofiles
 /etc/passwd and /etc/hosts.
+4-lastlines
+/etc/passwd.
