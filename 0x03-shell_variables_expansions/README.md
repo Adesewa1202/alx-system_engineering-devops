@@ -4,3 +4,5 @@ A script that creates an alias. Name: ls and Value: rm *
 A script that prints hello user
 2-path
 Adding /action to the PATH
+3-paths
+A script that counts the number of directories in the PATH.
